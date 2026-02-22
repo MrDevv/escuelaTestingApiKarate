@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "category": {
+    "id": 1,
+    "name": "nueva mascota 1"
+  },
+  "name": "nombre test",
+  "photoUrls": [
+    "www.example.url_mascota.com"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "tag test"
+    }
+  ],
+  "status": "available"
+}
